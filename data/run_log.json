@@ -1,15 +1,12 @@
 {
- "run_started_utc": "2026-10-25T19:54:12.586188+00:00",
+ "run_started_utc": "2026-10-25T19:57:21.580995+00:00",
  "gsa_source": "https://www.ppms.gov/gw/auction/ppms/api/v1/auctions/trending-auctions",
  "steps": [
-  "fetched 10 trending lots, 21 categories",
-  "2018 FORD TRANSIT: bid $8005.0 + $750 = $8755 vs ref $7176 (medium) -> pass",
-  "2015 Jeep Wrangler: bid $11400.0 + $750 = $12150 vs ref $3642 (medium) -> pass",
-  "CATERPILLAR 303C: bid $14305.0 + $500 = $14805 vs ref $38732 (low) -> DEAL",
-  "2018 Chevrolet Silverado 4X4 Truck: bid $6024.0 + $750 = $6774 vs ref $7362 (medium) -> pass",
-  "2022 Ford F150 Supercrew Cab XL 4X4: bid $10655.0 + $750 = $11405 vs ref $15998 (medium) -> pass"
+  "fetched 0 trending lots, 0 categories"
  ],
- "errors": [],
- "run_finished_utc": "2026-10-25T19:54:47.623233+00:00",
- "deals_found": 1
+ "errors": [
+  "GSA fetch failed: Expecting value: line 1 column 1 (char 0)"
+ ],
+ "run_finished_utc": "2026-10-25T19:57:21.661727+00:00",
+ "deals_found": 0
 }
