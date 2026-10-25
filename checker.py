@@ -90,12 +90,33 @@ def has_model_identifier(lot_name):
 
 
 def fetch_gsa():
-    """Fetch trending lots + category counts from the public PPMS endpoints."""
+    """Fetch trending lots + category counts from the public PPMS endpoints.
+
+    Raises on any failure, and refuses empty results: a failed fetch must
+    NEVER overwrite good data with an empty page. Callers exit non-zero.
+    """
     s = requests.Session()
     s.headers.update({"User-Agent": UA, "Accept": "application/json"})
-    lots = s.get(GSA_TRENDING, timeout=30).json()
-    cats = s.post(GSA_CATEGORIES, json={}, timeout=30,
-                  headers={"Content-Type": "application/json"}).json()
+    r1 = s.get(GSA_TRENDING, timeout=30)
+    if r1.status_code != 200:
+        raise RuntimeError(
+            f"trending feed HTTP {r1.status_code}: {r1.text[:200]!r}")
+    try:
+        lots = r1.json()
+    except ValueError:
+        raise RuntimeError(
+            f"trending feed returned non-JSON (likely a block page): {r1.text[:200]!r}")
+    if not isinstance(lots, list) or not lots:
+        raise RuntimeError("trending feed returned no lots; refusing to overwrite good data")
+    r2 = s.post(GSA_CATEGORIES, json={}, timeout=30,
+                headers={"Content-Type": "application/json"})
+    if r2.status_code != 200:
+        raise RuntimeError(f"category feed HTTP {r2.status_code}: {r2.text[:200]!r}")
+    try:
+        cats = r2.json()
+    except ValueError:
+        raise RuntimeError(
+            f"category feed returned non-JSON: {r2.text[:200]!r}")
     return lots, cats
 
 
@@ -183,8 +204,8 @@ def main():
     try:
         lots, cats = fetch_gsa()
     except Exception as e:
-        log["errors"].append(f"GSA fetch failed: {e}")
-        lots, cats = [], []
+        print(f"ERROR: GSA fetch failed, refusing to overwrite data: {e}", file=sys.stderr)
+        return 1
     log["steps"].append(f"fetched {len(lots)} trending lots, {len(cats)} categories")
 
     inventory = {

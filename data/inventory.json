@@ -1,6 +1,112 @@
 {
- "fetched_utc": "2026-10-25T19:57:21.580995+00:00",
+ "fetched_utc": "2026-10-25T19:58:44.089972+00:00",
  "source": "https://www.ppms.gov/gw/auction/ppms/api/v1/auctions/categoryCounts",
- "categories": [],
- "total_lots": 0
+ "categories": [
+  {
+   "name": "Agricultural Equipment and Supplies",
+   "code": "10",
+   "total": 4
+  },
+  {
+   "name": "Aircraft and Aircraft Parts",
+   "code": "20",
+   "total": 18
+  },
+  {
+   "name": "Artifacts, Jewelry and Exotic Collectibles",
+   "code": "130",
+   "total": 2
+  },
+  {
+   "name": "Boats and Marine Equipment",
+   "code": "40",
+   "total": 15
+  },
+  {
+   "name": "Communication Equipment",
+   "code": "50",
+   "total": 12
+  },
+  {
+   "name": "Computer Equipment and Accessories",
+   "code": "60",
+   "total": 91
+  },
+  {
+   "name": "Construction Equipment",
+   "code": "70",
+   "total": 7
+  },
+  {
+   "name": "Electrical and Electronic Equipment and Components",
+   "code": "80",
+   "total": 33
+  },
+  {
+   "name": "Fire Trucks and Fire Fighting Equipment",
+   "code": "90",
+   "total": 2
+  },
+  {
+   "name": "Furniture",
+   "code": "100",
+   "total": 58
+  },
+  {
+   "name": "Hand Tools & Shop Equipment",
+   "code": "105",
+   "total": 11
+  },
+  {
+   "name": "Household/Personal",
+   "code": "110",
+   "total": 18
+  },
+  {
+   "name": "Industrial Machinery",
+   "code": "120",
+   "total": 33
+  },
+  {
+   "name": "Lab Equipment",
+   "code": "140",
+   "total": 31
+  },
+  {
+   "name": "Medical, Dental, and Veterinary Equipment and Supplies",
+   "code": "150",
+   "total": 114
+  },
+  {
+   "name": "Miscellaneous",
+   "code": "160",
+   "total": 74
+  },
+  {
+   "name": "Motorcycles & Bicycles",
+   "code": "170",
+   "total": 4
+  },
+  {
+   "name": "Office Equipment and Supplies",
+   "code": "180",
+   "total": 22
+  },
+  {
+   "name": "Photographic Equipment",
+   "code": "190",
+   "total": 15
+  },
+  {
+   "name": "Trailers, Tractors and Manufactured Housing",
+   "code": "200",
+   "total": 33
+  },
+  {
+   "name": "Vehicles",
+   "code": "300",
+   "total": 98
+  }
+ ],
+ "total_lots": 695
 }
