@@ -1,0 +1,273 @@
+{
+ "generated_utc": "2026-10-25T19:54:12.586188+00:00",
+ "evaluated": [
+  {
+   "lot_name": "2018 FORD TRANSIT",
+   "current_bid": 8005.0,
+   "closing_date": "2026-10-26T14:53:00",
+   "city": "WILMINGTON",
+   "state": "DE",
+   "sale_number": "11QSCI27032",
+   "lot_number": 19,
+   "auction_id": 380787,
+   "category": "300",
+   "gsa_search_url": "https://www.gsaauctions.gov/auctions/search?status=active",
+   "gsa_search_hint": "Search GSA Auctions for sale 11QSCI27032 lot 19",
+   "resale_reference": 7176.0,
+   "resale_confidence": "medium",
+   "resale_sources": [
+    {
+     "title": "2018 Ford Transit 150 Van Price, Value, Depreciation & Reviews | Kelley ...",
+     "url": "https://www.kbb.com/ford/transit-150-van/2018/"
+    },
+    {
+     "title": "2018 Ford Transit Price - iSeeCars.com",
+     "url": "https://www.iseecars.com/car/2018-ford-transit-price"
+    },
+    {
+     "title": "2018 Ford Transit 150 Wagon Price, Value, Depreciation & Reviews ...",
+     "url": "https://www.kbb.com/ford/transit-150-wagon/2018/"
+    },
+    {
+     "title": "2018 FORD TRANSIT prices, depreciation, specifications, sales ...",
+     "url": "https://badvin.com/catalog/ford/transit/2018"
+    },
+    {
+     "title": "Used 2018 Ford Transit for Sale - Carsforsale.com\u00ae",
+     "url": "https://www.carsforsale.com/2018-ford-transit-for-sale-C1547678"
+    },
+    {
+     "title": "How Much Is a 2018 Ford Transit Worth? Value & Prices",
+     "url": "https://oldcarsdata.com/ford/transit/year/2018"
+    }
+   ],
+   "shipping_allowance": 750,
+   "shipping_allowance_kind": "vehicle",
+   "fees_assumed": 0,
+   "fees_note": "GSA lists no buyer's premium; verify on the lot page before bidding.",
+   "total_cost_estimate": 8755.0,
+   "estimated_margin": -1579.0,
+   "estimated_margin_pct": -22.0,
+   "deal": false
+  },
+  {
+   "lot_name": "2015 Jeep Wrangler",
+   "current_bid": 11400.0,
+   "closing_date": "2026-10-28T15:51:00",
+   "city": "Corozal",
+   "state": "PR",
+   "sale_number": "11QSCI27023",
+   "lot_number": 38,
+   "auction_id": 381104,
+   "category": "300",
+   "gsa_search_url": "https://www.gsaauctions.gov/auctions/search?status=active",
+   "gsa_search_hint": "Search GSA Auctions for sale 11QSCI27023 lot 38",
+   "resale_reference": 3642.0,
+   "resale_confidence": "medium",
+   "resale_sources": [
+    {
+     "title": "2015 Jeep Wrangler Price, Value, Depreciation & Reviews - Kelley Blue Book",
+     "url": "https://www.kbb.com/jeep/wrangler/2015/"
+    },
+    {
+     "title": "2015 Jeep Wrangler Value - $3,642-$16,984 | Edmunds",
+     "url": "https://www.edmunds.com/jeep/wrangler/2015/appraisal-value/"
+    },
+    {
+     "title": "Used 2015 Jeep Wrangler Unlimited Rubicon Sport Utility 4D",
+     "url": "https://www.kbb.com/jeep/wrangler/2015/unlimited-rubicon-sport-utility-4d/"
+    },
+    {
+     "title": "Used 2015 Jeep Wrangler for Sale Near Me - Autotrader",
+     "url": "https://www.autotrader.com/cars-for-sale/2015/jeep/wrangler"
+    },
+    {
+     "title": "2015 Jeep Wrangler Utility 4D Unlimited Sport 4WD V6 Average Price ...",
+     "url": "https://www.jdpower.com/cars/2015/jeep/wrangler/utility-4d-unlimited-sport-4wd-v6"
+    },
+    {
+     "title": "Used 2015 Jeep Wrangler for Sale Near Me - CARFAX",
+     "url": "https://www.carfax.com/Used-2015-Jeep-Wrangler_z7921"
+    }
+   ],
+   "shipping_allowance": 750,
+   "shipping_allowance_kind": "vehicle",
+   "fees_assumed": 0,
+   "fees_note": "GSA lists no buyer's premium; verify on the lot page before bidding.",
+   "total_cost_estimate": 12150.0,
+   "estimated_margin": -8508.0,
+   "estimated_margin_pct": -233.6,
+   "deal": false
+  },
+  {
+   "lot_name": "2018 Chevrolet Silverado 4X4 Truck",
+   "current_bid": 6024.0,
+   "closing_date": "2026-10-30T13:01:00",
+   "city": "Columbia",
+   "state": "MO",
+   "sale_number": "31QSCI27039",
+   "lot_number": 10,
+   "auction_id": 381461,
+   "category": "300",
+   "gsa_search_url": "https://www.gsaauctions.gov/auctions/search?status=active",
+   "gsa_search_hint": "Search GSA Auctions for sale 31QSCI27039 lot 10",
+   "resale_reference": 7362.0,
+   "resale_confidence": "medium",
+   "resale_sources": [
+    {
+     "title": "2018 Chevrolet Silverado 1500 Value - $7,362-$32,263 | Edmunds",
+     "url": "https://www.edmunds.com/chevrolet/silverado-1500/2018/appraisal-value/"
+    },
+    {
+     "title": "2018 Chevrolet Silverado 1500 Price, Value, Depreciation & Reviews ...",
+     "url": "https://www.kbb.com/chevrolet/silverado-1500/2018/"
+    },
+    {
+     "title": "2018 Chevrolet Silverado 1500 Regular Cab LT 4WD Average Price ...",
+     "url": "https://www.jdpower.com/cars/2018/chevrolet/silverado-1500/regular-cab-lt-4wd"
+    },
+    {
+     "title": "2018 Chevrolet Silverado 1500 Crew Cab LT 4WD Average Price & Estimated ...",
+     "url": "https://www.jdpower.com/cars/2018/chevrolet/silverado-1500/crew-cab-lt-4wd"
+    },
+    {
+     "title": "Used 2018 Chevrolet Silverado 1500 Crew Cab Price, Reviews, Pictures & More",
+     "url": "https://www.kbb.com/chevrolet/silverado-1500-crew-cab/2018/"
+    },
+    {
+     "title": "How Much is A 2018 Chevy Silverado Worth? Current Market Prices",
+     "url": "https://www.vehiclerides.com/chevy-silverado/how-much-is-a-2018-chevy-silverado-worth/"
+    }
+   ],
+   "shipping_allowance": 750,
+   "shipping_allowance_kind": "vehicle",
+   "fees_assumed": 0,
+   "fees_note": "GSA lists no buyer's premium; verify on the lot page before bidding.",
+   "total_cost_estimate": 6774.0,
+   "estimated_margin": 588.0,
+   "estimated_margin_pct": 8.0,
+   "deal": false
+  },
+  {
+   "lot_name": "2022 Ford F150 Supercrew Cab XL 4X4",
+   "current_bid": 10655.0,
+   "closing_date": "2026-10-28T18:32:00",
+   "city": "Athens",
+   "state": "GA",
+   "sale_number": "11QSCI27023",
+   "lot_number": 33,
+   "auction_id": 381099,
+   "category": "300",
+   "gsa_search_url": "https://www.gsaauctions.gov/auctions/search?status=active",
+   "gsa_search_hint": "Search GSA Auctions for sale 11QSCI27023 lot 33",
+   "resale_reference": 15998.0,
+   "resale_confidence": "medium",
+   "resale_sources": [
+    {
+     "title": "2022 Ford F150 Price, Value, Depreciation & Reviews | Kelley Blue Book",
+     "url": "https://www.kbb.com/ford/f150/2022/"
+    },
+    {
+     "title": "Used 2022 Ford F150 SuperCrew Cab Price, Reviews, Pictures & More",
+     "url": "https://www.kbb.com/ford/f150-supercrew-cab/2022/"
+    },
+    {
+     "title": "2022 Ford F-150 Value - $15,998-$60,401 | Edmunds",
+     "url": "https://www.edmunds.com/ford/f-150/2022/appraisal-value/"
+    },
+    {
+     "title": "2022 Ford F-150 Crew Cab XLT 4WD Average Price & Estimated Trade-In Value",
+     "url": "https://www.jdpower.com/cars/2022/ford/f150/crew-cab-xlt-4wd"
+    },
+    {
+     "title": "2022 Ford F150 Supercab XL 4WD Average Price & Estimated Trade-In Value",
+     "url": "https://www.jdpower.com/cars/2022/ford/f-150/supercab-xl-4wd"
+    },
+    {
+     "title": "Used 2022 Ford F150 for Sale Near Me - Autotrader",
+     "url": "https://www.autotrader.com/cars-for-sale/2022/ford/f150"
+    }
+   ],
+   "shipping_allowance": 750,
+   "shipping_allowance_kind": "vehicle",
+   "fees_assumed": 0,
+   "fees_note": "GSA lists no buyer's premium; verify on the lot page before bidding.",
+   "total_cost_estimate": 11405.0,
+   "estimated_margin": 4593.0,
+   "estimated_margin_pct": 28.7,
+   "deal": false
+  }
+ ],
+ "skipped": [
+  {
+   "lot_name": "John Deere Gator TX",
+   "current_bid": 1265.0,
+   "closing_date": "2026-10-26T16:33:00",
+   "city": "Fort Mitchell",
+   "state": "AL",
+   "sale_number": "11QSCI27032",
+   "lot_number": 47,
+   "auction_id": 380815,
+   "category": "160",
+   "gsa_search_url": "https://www.gsaauctions.gov/auctions/search?status=active",
+   "gsa_search_hint": "Search GSA Auctions for sale 11QSCI27032 lot 47",
+   "reason": "no usable public resale reference found"
+  },
+  {
+   "lot_name": "TRAVEL TRAILER",
+   "current_bid": 37100.0,
+   "closing_date": "2026-10-26T17:00:00",
+   "city": "SELMA",
+   "state": "AL",
+   "sale_number": "21QSCI27049",
+   "lot_number": 1,
+   "auction_id": 381045,
+   "category": "200",
+   "gsa_search_url": "https://www.gsaauctions.gov/auctions/search?status=active",
+   "gsa_search_hint": "Search GSA Auctions for sale 21QSCI27049 lot 1",
+   "reason": "no specific model identifier in lot name; resale reference not possible"
+  },
+  {
+   "lot_name": "2014 FORD F150 4X4",
+   "current_bid": 7090.0,
+   "closing_date": "2026-10-28T16:27:00",
+   "city": "BAXLEY",
+   "state": "GA",
+   "sale_number": "11QSCI27023",
+   "lot_number": 13,
+   "auction_id": 381082,
+   "category": "300",
+   "gsa_search_url": "https://www.gsaauctions.gov/auctions/search?status=active",
+   "gsa_search_hint": "Search GSA Auctions for sale 11QSCI27023 lot 13",
+   "reason": "no usable public resale reference found"
+  },
+  {
+   "lot_name": "John Deer Compact Track Loader",
+   "current_bid": 11600.0,
+   "closing_date": "2026-10-28T12:05:00",
+   "city": "SAINT LOUIS",
+   "state": "MO",
+   "sale_number": "31QSCI27029",
+   "lot_number": 37,
+   "auction_id": 380956,
+   "category": "70",
+   "gsa_search_url": "https://www.gsaauctions.gov/auctions/search?status=active",
+   "gsa_search_hint": "Search GSA Auctions for sale 31QSCI27029 lot 37",
+   "reason": "no specific model identifier in lot name; resale reference not possible"
+  },
+  {
+   "lot_name": "2020 Ford F250 Super Duty Super Cab XL 4X4",
+   "current_bid": 8988.0,
+   "closing_date": "2026-10-28T17:37:00",
+   "city": "Elkins",
+   "state": "WV",
+   "sale_number": "11QSCI27023",
+   "lot_number": 22,
+   "auction_id": 381089,
+   "category": "300",
+   "gsa_search_url": "https://www.gsaauctions.gov/auctions/search?status=active",
+   "gsa_search_hint": "Search GSA Auctions for sale 11QSCI27023 lot 22",
+   "reason": "no usable public resale reference found"
+  }
+ ]
+}

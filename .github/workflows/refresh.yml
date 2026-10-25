@@ -1,0 +1,28 @@
+name: Refresh GSA deals
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"  # every 6 hours, off-peak minute
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - run: python3 checker.py
+      - run: python3 build.py
+      - name: Commit refreshed data and page
+        run: |
+          git config user.name "gsa-deal-finder-bot"
+          git config user.email "gsa-deal-finder-bot@users.noreply.github.com"
+          git add data/ index.html
+          git diff --cached --quiet || git commit -m "refresh: GSA deals $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
