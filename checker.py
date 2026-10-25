@@ -155,10 +155,10 @@ def resale_reference(lot_name):
     Returns (reference, confidence, sources) or (None, 'none', sources).
     - Explicit published range (e.g. Edmunds '$7,176-$27,249') -> low end,
       confidence MEDIUM (range is published, but trim/condition unknown).
-    - Otherwise median of snippet figures >= $100 from >= 2 distinct domains,
+    - Otherwise median of snippet figures >= $100 from >= 3 distinct domains,
       confidence LOW.
     """
-    queries = [f"{lot_name} value", f"{lot_name} sold price"]
+    queries = [f"{lot_name} value", f"{lot_name} sold price", f"{lot_name} for sale"]
     sources = []
     figures = []  # (value, domain)
     range_low = None
@@ -190,7 +190,7 @@ def resale_reference(lot_name):
         return range_low, "medium", uniq[:6]
     domains = {d for _, d in figures}
     vals = sorted(v for v, _ in figures)
-    if len(domains) >= 2 and len(vals) >= 2:
+    if len(domains) >= 3 and len(vals) >= 3:
         median = vals[len(vals) // 2] if len(vals) % 2 else (vals[len(vals) // 2 - 1] + vals[len(vals) // 2]) / 2
         return median, "low", uniq[:6]
     return None, "none", uniq[:6]

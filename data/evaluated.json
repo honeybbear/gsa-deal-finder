@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-25T19:58:44.089972+00:00",
+ "generated_utc": "2026-10-25T19:59:49.716504+00:00",
  "evaluated": [
   {
    "lot_name": "2018 FORD TRANSIT",
@@ -17,28 +17,28 @@
    "resale_confidence": "medium",
    "resale_sources": [
     {
+     "title": "2018 Ford Transit 150 Van Price, Value, Depreciation & Reviews | Kelley ...",
+     "url": "https://www.kbb.com/ford/transit-150-van/2018/"
+    },
+    {
+     "title": "2018 Ford Transit Price - iSeeCars.com",
+     "url": "https://www.iseecars.com/car/2018-ford-transit-price"
+    },
+    {
+     "title": "2018 Ford Transit 350 Van Price, Value, Depreciation & Reviews | Kelley ...",
+     "url": "https://www.kbb.com/ford/transit-350-van/2018/"
+    },
+    {
+     "title": "2018 FORD TRANSIT prices, depreciation, specifications, sales ...",
+     "url": "https://badvin.com/catalog/ford/transit/2018"
+    },
+    {
+     "title": "How Much Is a 2018 Ford Transit Worth? Value & Prices",
+     "url": "https://oldcarsdata.com/ford/transit/year/2018"
+    },
+    {
      "title": "2018 Ford Transit Van Value - $7,176-$27,249 | Edmunds",
      "url": "https://www.edmunds.com/ford/transit-van/2018/appraisal-value/"
-    },
-    {
-     "title": "2018 Ford Transit 250 Van Price, Value, Depreciation & Reviews | Kelley ...",
-     "url": "https://www.kbb.com/ford/transit-250-van/2018/"
-    },
-    {
-     "title": "2018 Ford Transit 350 Van Depreciation Value | Kelley Blue Book",
-     "url": "https://www.kbb.com/ford/transit-350-van/2018/depreciation/"
-    },
-    {
-     "title": "Used 2018 Ford Transit Trucks For Sale - Commercial Truck Trader",
-     "url": "https://www.commercialtrucktrader.com/Used-2018-Ford-Transit/trucks-for-sale?make=Ford%7C2310392&model=TRANSIT%7C764954022&condition=U&year=2018"
-    },
-    {
-     "title": "2018 Ford Transit Wagon Value - $8,097-$28,883 | Edmunds",
-     "url": "https://www.edmunds.com/ford/transit-wagon/2018/appraisal-value/"
-    },
-    {
-     "title": "2018 Ford Transit 350 - J.D. Power and Associates",
-     "url": "https://www.jdpower.com/cars/2018/ford/transit-350/passenger-van-xl-medium-roof"
     }
    ],
    "shipping_allowance": 750,
@@ -74,20 +74,20 @@
      "url": "https://www.edmunds.com/jeep/wrangler/2015/appraisal-value/"
     },
     {
-     "title": "2015 Jeep Wrangler Unlimited Sport SUV 4D Price, Listings & Reviews ...",
-     "url": "https://www.kbb.com/jeep/wrangler/2015/unlimited-sport-suv-4d/"
+     "title": "2015 Jeep Wrangler X Sport Utility 2D Price, Listings & Reviews ...",
+     "url": "https://www.kbb.com/jeep/wrangler/2015/x-sport-utility-2d/"
     },
     {
-     "title": "Used 2015 Jeep Wrangler for Sale Near Me - Autotrader",
-     "url": "https://www.autotrader.com/cars-for-sale/2015/jeep/wrangler"
+     "title": "How Much Is A Used 2015 Jeep Wrangler? Price Guide 2024",
+     "url": "https://jeepinside.com/how-much-is-a-used-2015-jeep-wrangler/"
+    },
+    {
+     "title": "How Much Is A 2015 Jeep Wrangler Worth? - Jeeps land",
+     "url": "https://jeepsland.com/how-much-is-a-2015-jeep-wrangler-worth/"
     },
     {
      "title": "How Much Is 2015 Jeep Wrangler? Price & Value Guide 2024",
      "url": "https://jeepinside.com/how-much-is-2015-jeep-wrangler/"
-    },
-    {
-     "title": "What Is A 2015 Jeep Wrangler Worth: Guide, Tips & Fixes",
-     "url": "https://jeepinside.com/what-is-a-2015-jeep-wrangler-worth/"
     }
    ],
    "shipping_allowance": 750,
@@ -100,52 +100,52 @@
    "deal": false
   },
   {
-   "lot_name": "John Deere Gator TX",
-   "current_bid": 1265.0,
-   "closing_date": "2026-10-26T16:33:00",
+   "lot_name": "CATERPILLAR 303C",
+   "current_bid": 14305.0,
+   "closing_date": "2026-10-26T16:13:00",
    "city": "Fort Mitchell",
    "state": "AL",
    "sale_number": "11QSCI27032",
-   "lot_number": 47,
-   "auction_id": 380815,
+   "lot_number": 45,
+   "auction_id": 380813,
    "category": "160",
    "gsa_search_url": "https://www.gsaauctions.gov/auctions/search?status=active",
-   "gsa_search_hint": "Search GSA Auctions for sale 11QSCI27032 lot 47",
-   "resale_reference": 3100.0,
+   "gsa_search_hint": "Search GSA Auctions for sale 11QSCI27032 lot 45",
+   "resale_reference": 16000.0,
    "resale_confidence": "low",
    "resale_sources": [
     {
-     "title": "JOHN DEERE GATOR TX For Sale - TractorHouse.com",
-     "url": "https://www.tractorhouse.com/listings/for-sale/john-deere/gator-tx/farm-equipment"
+     "title": "CATERPILLAR 303 Excavators For Sale - MachineryTrader.com",
+     "url": "https://www.machinerytrader.com/listings/for-sale/caterpillar/303/excavators/1031"
     },
     {
-     "title": "JOHN DEERE GATOR TX Utility UTVs For Sale - TractorHouse.com",
-     "url": "https://www.tractorhouse.com/listings/for-sale/john-deere/gator-tx/utility-utility-vehicles-motorsports/151009"
+     "title": "CATERPILLAR 303C CR Excavators For Sale - MachineryTrader.com",
+     "url": "https://www.machinerytrader.com/listings/for-sale/caterpillar/303c-cr/excavators/1031"
     },
     {
-     "title": "Used John Deere Gator TX for Sale - 18 Listings | Machinery Pete",
-     "url": "https://www.machinerypete.com/other/atvs-and-utility-vehicles/john-deere/gator-tx"
+     "title": "Caterpillar 303 Mini Excavator Results and Price Guide",
+     "url": "https://www.purplewave.com/market-value/construction-equipment/excavators/mini-excavators/caterpillar/303"
     },
     {
-     "title": "John Deere Utility Vehicles Prices and Book Values",
-     "url": "https://www.jdpower.com/motorcycles/john-deere/utility-vehicles"
+     "title": "CATERPILLAR 303C CR Equipment Auction Results - AuctionTime.com",
+     "url": "https://www.auctiontime.com/listings/auction-results/caterpillar/303c-cr/equipment"
     },
     {
-     "title": "JOHN DEERE GATOR TX For Sale",
-     "url": "https://www.machinerytrader.com/listings/for-sale/john-deere/gator-tx/construction-equipment"
+     "title": "Caterpillar 303C CR Excavators Equipment for Sale",
+     "url": "https://www.equipmenttrader.com/Used-Caterpillar-303c-Cr-Excavators/equipment-for-sale?make=Caterpillar%7C2322422&model=303C%20CR%7C&category=Excavators%7C2000206&condition=U"
     },
     {
-     "title": "How Much Does A John Deere Gator Cost? - The Pricer",
-     "url": "https://www.thepricer.org/john-deere-gator-cost/"
+     "title": "CATERPILLAR 303C CR For Sale - 4 Listings | TractorHouse.com",
+     "url": "https://www.tractorhouse.com/listings/for-sale/caterpillar/303c-cr/farm-equipment"
     }
    ],
    "shipping_allowance": 500,
    "shipping_allowance_kind": "equipment",
    "fees_assumed": 0,
    "fees_note": "GSA lists no buyer's premium; verify on the lot page before bidding.",
-   "total_cost_estimate": 1765.0,
-   "estimated_margin": 1335.0,
-   "estimated_margin_pct": 43.1,
+   "total_cost_estimate": 14805.0,
+   "estimated_margin": 1195.0,
+   "estimated_margin_pct": 7.5,
    "deal": false
   },
   {
@@ -164,12 +164,12 @@
    "resale_confidence": "medium",
    "resale_sources": [
     {
-     "title": "2018 Chevrolet Silverado 1500 Value - $7,362-$32,263 | Edmunds",
-     "url": "https://www.edmunds.com/chevrolet/silverado-1500/2018/appraisal-value/"
-    },
-    {
      "title": "2018 Chevrolet Silverado 1500 Price, Value, Depreciation & Reviews ...",
      "url": "https://www.kbb.com/chevrolet/silverado-1500/2018/"
+    },
+    {
+     "title": "2018 Chevrolet Silverado 1500 Value - $7,362-$32,263 | Edmunds",
+     "url": "https://www.edmunds.com/chevrolet/silverado-1500/2018/appraisal-value/"
     },
     {
      "title": "2018 Chevrolet Silverado 1500 Crew Cab LT 4WD Average Price & Estimated ...",
@@ -209,32 +209,32 @@
    "category": "300",
    "gsa_search_url": "https://www.gsaauctions.gov/auctions/search?status=active",
    "gsa_search_hint": "Search GSA Auctions for sale 11QSCI27023 lot 33",
-   "resale_reference": 15998.0,
-   "resale_confidence": "medium",
+   "resale_reference": 9268.0,
+   "resale_confidence": "low",
    "resale_sources": [
     {
-     "title": "2022 Ford F150 Price, Value, Depreciation & Reviews | Kelley Blue Book",
-     "url": "https://www.kbb.com/ford/f150/2022/"
+     "title": "Used 2022 Ford F150 XL for Sale Near Me - Autotrader",
+     "url": "https://www.autotrader.com/cars-for-sale/2022/ford/f150/xl"
     },
     {
-     "title": "2022 Ford F-150 Value - $15,998-$60,401 | Edmunds",
-     "url": "https://www.edmunds.com/ford/f-150/2022/appraisal-value/"
+     "title": "Used 2022 Ford F150 for Sale Near Me - Autotrader",
+     "url": "https://www.autotrader.com/cars-for-sale/2022/ford/f150"
     },
     {
-     "title": "Used 2022 Ford F150 SuperCrew Cab Price, Reviews, Pictures & More",
-     "url": "https://www.kbb.com/ford/f150-supercrew-cab/2022/"
+     "title": "Used 2022 Ford F-150 for Sale near Ohio - CarGurus",
+     "url": "https://www.cargurus.com/Cars/l-Used-2022-Ford-F-150-Ohio-c32006_L26517"
     },
     {
      "title": "Used 2022 Ford F-150 SuperCrew for Sale - Edmunds",
      "url": "https://www.edmunds.com/ford/f-150/2022/supercrew/"
     },
     {
-     "title": "2022 Ford F-150 Crew Cab XLT 4WD Average Price & Estimated Trade-In Value",
-     "url": "https://www.jdpower.com/cars/2022/ford/f150/crew-cab-xlt-4wd"
+     "title": "Used 2022 Ford F-150 XL for Sale Near Me - CARFAX",
+     "url": "https://www.carfax.com/Used-2022-Ford-F-150-XL_x50089"
     },
     {
-     "title": "Used 2022 Ford F150 XL for Sale Near Me - Autotrader",
-     "url": "https://www.autotrader.com/cars-for-sale/2022/ford/f150/xl"
+     "title": "Used Ford F-150 for Sale in Columbus, OH - CARFAX",
+     "url": "https://www.carfax.com/Used-Ford-F-150-Columbus-OH_w236_c28185"
     }
    ],
    "shipping_allowance": 750,
@@ -242,8 +242,8 @@
    "fees_assumed": 0,
    "fees_note": "GSA lists no buyer's premium; verify on the lot page before bidding.",
    "total_cost_estimate": 11405.0,
-   "estimated_margin": 4593.0,
-   "estimated_margin_pct": 28.7,
+   "estimated_margin": -2137.0,
+   "estimated_margin_pct": -23.1,
    "deal": false
   },
   {
@@ -270,12 +270,12 @@
      "url": "https://www.kbb.com/cars-for-sale/used/2014/ford/f150"
     },
     {
-     "title": "2014 Ford F-150 Value - $3,735-$30,238 | Edmunds",
-     "url": "https://www.edmunds.com/ford/f-150/2014/appraisal-value/"
+     "title": "Used 2014 Ford F150 for Sale in Columbus, OH - Autotrader",
+     "url": "https://www.autotrader.com/cars-for-sale/2014/ford/f150/columbus-oh"
     },
     {
-     "title": "Used 2014 Ford F150 for Sale in Phoenix, AZ - Autotrader",
-     "url": "https://www.autotrader.com/cars-for-sale/2014/ford/f150/phoenix-az"
+     "title": "2014 Ford F-150 Value - $3,735-$30,238 | Edmunds",
+     "url": "https://www.edmunds.com/ford/f-150/2014/appraisal-value/"
     },
     {
      "title": "2014 Ford F-150 SuperCrew FX4 4WD Average Price & Estimated Trade-In Value",
@@ -319,20 +319,20 @@
      "url": "https://www.kbb.com/ford/f250-super-duty-super-cab/2020/"
     },
     {
-     "title": "Used 2020 Ford F250 Super Duty Super Cab XL Pickup 4D 8 Ft",
-     "url": "https://www.kbb.com/ford/f250-super-duty-super-cab/2020/xl-pickup-4d-8-ft/"
-    },
-    {
      "title": "Used 2020 Ford F-250 Super Duty SuperCab for Sale - Edmunds",
      "url": "https://www.edmunds.com/ford/f-250-super-duty/2020/supercab/"
     },
     {
-     "title": "2020 Ford F250 Super Duty Supercab XL 4WD Average Price & Estimated ...",
-     "url": "https://www.jdpower.com/cars/2020/ford/super-duty-f-250-srw/supercab-xl-4wd"
+     "title": "2020 Ford F250 Price, Value, Depreciation & Reviews | Kelley Blue Book",
+     "url": "https://www.kbb.com/ford/f250/2020/"
     },
     {
      "title": "Used 2020 Ford F250 for Sale Near Me",
      "url": "https://www.autotrader.com/cars-for-sale/2020/ford/f250"
+    },
+    {
+     "title": "2020 Ford F250 Super Duty - J.D. Power and Associates",
+     "url": "https://www.jdpower.com/cars/2020/ford/f250-super-duty/crew-cab-xl-4wd"
     }
    ],
    "shipping_allowance": 750,
@@ -346,20 +346,6 @@
   }
  ],
  "skipped": [
-  {
-   "lot_name": "CATERPILLAR 303C",
-   "current_bid": 14305.0,
-   "closing_date": "2026-10-26T16:13:00",
-   "city": "Fort Mitchell",
-   "state": "AL",
-   "sale_number": "11QSCI27032",
-   "lot_number": 45,
-   "auction_id": 380813,
-   "category": "160",
-   "gsa_search_url": "https://www.gsaauctions.gov/auctions/search?status=active",
-   "gsa_search_hint": "Search GSA Auctions for sale 11QSCI27032 lot 45",
-   "reason": "no usable public resale reference found"
-  },
   {
    "lot_name": "TRAVEL TRAILER",
    "current_bid": 37100.0,

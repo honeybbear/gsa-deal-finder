@@ -1,4 +1,54 @@
 {
- "generated_utc": "2026-10-25T19:58:44.089972+00:00",
- "deals": []
+ "generated_utc": "2026-10-25T19:59:49.716504+00:00",
+ "deals": [
+  {
+   "lot_name": "John Deere Gator TX",
+   "current_bid": 1265.0,
+   "closing_date": "2026-10-26T16:33:00",
+   "city": "Fort Mitchell",
+   "state": "AL",
+   "sale_number": "11QSCI27032",
+   "lot_number": 47,
+   "auction_id": 380815,
+   "category": "160",
+   "gsa_search_url": "https://www.gsaauctions.gov/auctions/search?status=active",
+   "gsa_search_hint": "Search GSA Auctions for sale 11QSCI27032 lot 47",
+   "resale_reference": 10757.5,
+   "resale_confidence": "low",
+   "resale_sources": [
+    {
+     "title": "JOHN DEERE GATOR TX For Sale - TractorHouse.com",
+     "url": "https://www.tractorhouse.com/listings/for-sale/john-deere/gator-tx/farm-equipment"
+    },
+    {
+     "title": "JOHN DEERE GATOR TX Utility UTVs For Sale - TractorHouse.com",
+     "url": "https://www.tractorhouse.com/listings/for-sale/john-deere/gator-tx/utility-utility-vehicles-motorsports/151009"
+    },
+    {
+     "title": "John Deere Utility Vehicles Prices and Book Values",
+     "url": "https://www.jdpower.com/motorcycles/john-deere/utility-vehicles"
+    },
+    {
+     "title": "Used John Deere Gator TX for Sale - 18 Listings | Machinery Pete",
+     "url": "https://www.machinerypete.com/other/atvs-and-utility-vehicles/john-deere/gator-tx"
+    },
+    {
+     "title": "JOHN DEERE GATOR TX For Sale",
+     "url": "https://www.machinerytrader.com/listings/for-sale/john-deere/gator-tx/construction-equipment"
+    },
+    {
+     "title": "How Much Does A John Deere Gator Cost? - The Pricer",
+     "url": "https://www.thepricer.org/john-deere-gator-cost/"
+    }
+   ],
+   "shipping_allowance": 500,
+   "shipping_allowance_kind": "equipment",
+   "fees_assumed": 0,
+   "fees_note": "GSA lists no buyer's premium; verify on the lot page before bidding.",
+   "total_cost_estimate": 1765.0,
+   "estimated_margin": 8992.5,
+   "estimated_margin_pct": 83.6,
+   "deal": true
+  }
+ ]
 }

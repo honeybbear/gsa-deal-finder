@@ -1,17 +1,18 @@
 {
- "run_started_utc": "2026-10-25T19:58:44.089972+00:00",
+ "run_started_utc": "2026-10-25T19:59:49.716504+00:00",
  "gsa_source": "https://www.ppms.gov/gw/auction/ppms/api/v1/auctions/trending-auctions",
  "steps": [
   "fetched 10 trending lots, 21 categories",
   "2018 FORD TRANSIT: bid $8005.0 + $750 = $8755 vs ref $7176 (medium) -> pass",
   "2015 Jeep Wrangler: bid $11400.0 + $750 = $12150 vs ref $3642 (medium) -> pass",
-  "John Deere Gator TX: bid $1265.0 + $500 = $1765 vs ref $3100 (low) -> pass",
+  "CATERPILLAR 303C: bid $14305.0 + $500 = $14805 vs ref $16000 (low) -> pass",
+  "John Deere Gator TX: bid $1265.0 + $500 = $1765 vs ref $10758 (low) -> DEAL",
   "2018 Chevrolet Silverado 4X4 Truck: bid $6024.0 + $750 = $6774 vs ref $7362 (medium) -> pass",
-  "2022 Ford F150 Supercrew Cab XL 4X4: bid $10655.0 + $750 = $11405 vs ref $15998 (medium) -> pass",
+  "2022 Ford F150 Supercrew Cab XL 4X4: bid $10655.0 + $750 = $11405 vs ref $9268 (low) -> pass",
   "2014 FORD F150 4X4: bid $7090.0 + $750 = $7840 vs ref $3735 (medium) -> pass",
   "2020 Ford F250 Super Duty Super Cab XL 4X4: bid $8988.0 + $750 = $9738 vs ref $17170 (medium) -> pass"
  ],
  "errors": [],
- "run_finished_utc": "2026-10-25T19:59:25.526306+00:00",
- "deals_found": 0
+ "run_finished_utc": "2026-10-25T20:00:53.530276+00:00",
+ "deals_found": 1
 }
