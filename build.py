@@ -185,7 +185,7 @@ a{{color:#0b5cab}}
 
 <footer>
 <p>Sources: GSA Auctions public trending feed (ppms.gov gateway), GSA/PPMS category counts, DuckDuckGo HTML search snippets for resale references. Every number on this page traces to a fetched source listed with it. No affiliate links. No earnings claims. No account creation, no purchases, no contact with sellers — this page only finds and shows.</p>
-<p>Built by an automated checker that re-runs every 6 hours. If a run finds nothing, the page says so.</p>
+<p>Built by an automated checker. Note: scheduled runs from GitHub's network are currently blocked by GSA's gateway (HTTP 403), so refreshes happen from an unblocked host — the timestamp above is the last successful refresh. A failed refresh never overwrites good data. If a run finds nothing, the page says so.</p>
 </footer>
 </main></body></html>"""
     (ROOT / "index.html").write_text(page)

@@ -30,6 +30,18 @@ Finds undervalued federal surplus on [GSA Auctions](https://www.gsaauctions.gov/
 - `build.py` — renders `index.html` from `data/*.json`. If a run finds no deals, the page says so.
 - `.github/workflows/refresh.yml` — runs the checker + build every 6 hours (plus manual dispatch) and commits the results. GitHub Pages serves the site from `main`.
 
+## Automation status (2026-10-25, verified)
+
+- The checker works from an unblocked network (verified live).
+- **Scheduled GitHub Actions runs are currently blocked**: the PPMS gateway
+  returns HTTP 403 to GitHub runner IPs, so the 6-hour workflow fails loudly
+  and — by design — never overwrites good data with an empty result. The
+  workflow stays in place as a canary: if the gateway ever allows runner
+  traffic, scheduled refreshes start working with no code change.
+- Until then, refreshes happen from a local run (`python3 checker.py &&
+  python3 build.py` + push). The dashboard timestamp always shows the last
+  *successful* refresh.
+
 ## Local use
 
 ```sh
